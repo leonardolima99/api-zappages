@@ -1,0 +1,22 @@
+{
+  "name": "api-zappages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardolima99/api-zappages.git"
+  },
+  "author": "Leonardo Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardolima99/api-zappages/issues"
+  },
+  "homepage": "https://github.com/leonardolima99/api-zappages#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

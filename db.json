@@ -1,0 +1,265 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "data": {
+        "assets": [],
+        "styles": [
+          {
+            "selectors": [
+              {
+                "name": "gjs-row",
+                "private": 1
+              }
+            ],
+            "style": {
+              "display": "table",
+              "padding-top": "10px",
+              "padding-right": "10px",
+              "padding-bottom": "10px",
+              "padding-left": "10px",
+              "width": "100%"
+            }
+          },
+          {
+            "selectors": [
+              {
+                "name": "gjs-cell",
+                "private": 1
+              }
+            ],
+            "style": {
+              "width": "100%",
+              "display": "block"
+            },
+            "mediaText": "(max-width: 768px)",
+            "atRuleType": "media"
+          },
+          {
+            "selectors": [
+              "gjs-cell30"
+            ],
+            "style": {
+              "width": "100%",
+              "display": "block"
+            },
+            "mediaText": "(max-width: 768px)",
+            "atRuleType": "media"
+          },
+          {
+            "selectors": [
+              "gjs-cell70"
+            ],
+            "style": {
+              "width": "100%",
+              "display": "block"
+            },
+            "mediaText": "(max-width: 768px)",
+            "atRuleType": "media"
+          },
+          {
+            "selectors": [
+              {
+                "name": "gjs-cell",
+                "private": 1
+              }
+            ],
+            "style": {
+              "width": "8%",
+              "display": "table-cell",
+              "height": "75px"
+            }
+          },
+          {
+            "selectors": [
+              "section__title"
+            ],
+            "style": {
+              "font-family": "Ubuntu, sans-serif",
+              "color": "rgb(51, 51, 51)",
+              "font-size": "1.5rem",
+              "font-weight": "500",
+              "margin-bottom": "0.5rem"
+            }
+          },
+          {
+            "selectors": [
+              "section__text"
+            ],
+            "style": {
+              "font-family": "Ubuntu, sans-serif",
+              "color": "rgb(51, 51, 51)",
+              "font-size": "1rem",
+              "font-weight": "400",
+              "line-height": "1.6",
+              "margin-top": "1rem"
+            }
+          },
+          {
+            "selectors": [
+              "#ivxk"
+            ],
+            "style": {
+              "margin": "2rem auto 0"
+            }
+          },
+          {
+            "selectors": [
+              "section"
+            ],
+            "style": {
+              "padding": "0 10% 0 10%",
+              "height": "407.375px",
+              "width": "100%"
+            }
+          }
+        ],
+        "pages": [
+          {
+            "frames": [
+              {
+                "component": {
+                  "type": "wrapper",
+                  "stylable": [
+                    "background",
+                    "background-color",
+                    "background-image",
+                    "background-repeat",
+                    "background-attachment",
+                    "background-position",
+                    "background-size"
+                  ],
+                  "attributes": {
+                    "id": "igao"
+                  },
+                  "_undoexc": [
+                    "status",
+                    "open"
+                  ],
+                  "components": [
+                    {
+                      "name": "Row",
+                      "droppable": ".gjs-cell",
+                      "resizable": {
+                        "tl": 0,
+                        "tc": 0,
+                        "tr": 0,
+                        "cl": 0,
+                        "cr": 0,
+                        "bl": 0,
+                        "br": 0,
+                        "minDim": 1
+                      },
+                      "classes": [
+                        {
+                          "name": "gjs-row",
+                          "private": 1
+                        },
+                        "section"
+                      ],
+                      "attributes": {
+                        "id": "if59"
+                      },
+                      "_undoexc": [
+                        "status",
+                        "open"
+                      ],
+                      "components": [
+                        {
+                          "name": "Cell",
+                          "draggable": ".gjs-row",
+                          "resizable": {
+                            "tl": 0,
+                            "tc": 0,
+                            "tr": 0,
+                            "cl": 0,
+                            "cr": 1,
+                            "bl": 0,
+                            "br": 0,
+                            "minDim": 1,
+                            "bc": 0,
+                            "currentUnit": 1,
+                            "step": 0.2
+                          },
+                          "classes": [
+                            {
+                              "name": "gjs-cell",
+                              "private": 1
+                            },
+                            "section"
+                          ],
+                          "attributes": {
+                            "id": "imbt"
+                          },
+                          "_undoexc": [
+                            "status",
+                            "open"
+                          ],
+                          "components": [
+                            {
+                              "type": "section",
+                              "style": "",
+                              "attributes": {
+                                "title": "Seção personalizada!",
+                                "id": "ivxk"
+                              },
+                              "components": [
+                                {
+                                  "tagName": "h2",
+                                  "type": "text",
+                                  "classes": [
+                                    "section__title"
+                                  ],
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ],
+                                  "components": [
+                                    {
+                                      "type": "textnode",
+                                      "content": "Headline title section",
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tagName": "p",
+                                  "type": "text",
+                                  "classes": [
+                                    "section__text"
+                                  ],
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ],
+                                  "components": [
+                                    {
+                                      "type": "textnode",
+                                      "content": "\n              Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n            ",
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": "nm1BxlPfqjGr6JWK"
+          }
+        ]
+      }
+    }
+  ]
+}
