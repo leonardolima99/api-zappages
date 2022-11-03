@@ -3,40 +3,101 @@
     {
       "id": "1",
       "data": {
-        "assets": [],
+        "assets": [
+          {
+            "type": "image",
+            "src": "https://res.cloudinary.com/dlz7aaj3q/image/upload/v1667437518/zappages/assets/1/gwipzdaiir1gcelf7u2g.jpg",
+            "unitDim": "px",
+            "height": 0,
+            "width": 0
+          },
+          {
+            "type": "image",
+            "src": "https://res.cloudinary.com/dlz7aaj3q/image/upload/v1667437511/zappages/assets/1/ny9rcykkd3wowdug62xj.jpg",
+            "unitDim": "px",
+            "height": 0,
+            "width": 0
+          }
+        ],
         "styles": [
           {
-            "selectors": [
-              "section__title"
-            ],
+            "selectors": ["section__title"],
             "style": {
               "font-family": "Ubuntu, sans-serif",
-              "color": "rgb(51, 51, 51)",
+              "color": "#333333",
               "font-size": "1.5rem",
-              "font-weight": "500",
-              "margin-bottom": "0.5rem"
+              "font-weight": "500"
             }
           },
           {
-            "selectors": [
-              "section__text"
-            ],
+            "selectors": ["section__text"],
             "style": {
-              "font-family": "Ubuntu, sans-serif",
-              "color": "rgb(51, 51, 51)",
-              "font-size": "1rem",
+              "font-family": "Arial, Helvetica, sans-serif",
+              "color": "#cfc7c7",
+              "font-size": "18px",
               "font-weight": "400",
               "line-height": "1.6",
-              "margin-top": "1rem"
+              "width": "700px",
+              "margin": "1rem auto 0 auto"
             }
           },
           {
-            "selectors": [
-              "#i6e1"
-            ],
+            "selectors": ["#i6e1"],
+            "style": {
+              "width": "100%",
+              "padding": "1px 1px 1px 1px",
+              "margin": "0 0 0 0",
+              "background-image": "url('https://res.cloudinary.com/dlz7aaj3q/image/upload/v1667437518/zappages/assets/1/gwipzdaiir1gcelf7u2g.jpg')",
+              "background-size": "cover",
+              "background-position": "center center",
+              "background-attachment": "scroll",
+              "background-repeat": "no-repeat",
+              "min-height": "100vh"
+            }
+          },
+          {
+            "selectors": ["#i80b"],
+            "style": {
+              "padding": "10px",
+              "background-color": "#3b3a3a",
+              "color": "#afafaf",
+              "font-family": "Arial, Helvetica, sans-serif",
+              "font-size": "16px",
+              "font-weight": "600"
+            }
+          },
+          {
+            "selectors": ["#i0xil"],
             "style": {
               "width": "80%",
               "margin": "2rem auto 0"
+            }
+          },
+          {
+            "selectors": ["#ib29w"],
+            "style": {
+              "color": "black",
+              "width": "400px"
+            }
+          },
+          {
+            "selectors": ["#ion6"],
+            "style": {
+              "font-family": "Arial, Helvetica, sans-serif",
+              "font-size": "40px",
+              "width": "520px",
+              "margin": "230px auto 0 auto",
+              "font-weight": "600",
+              "color": "#cfc7c7"
+            }
+          },
+          {
+            "selectors": ["#inmw"],
+            "style": {
+              "font-size": "18px",
+              "font-weight": "500",
+              "color": "#333333",
+              "font-family": "Lucida Sans Unicode, Lucida Grande, sans-serif"
             }
           }
         ],
@@ -58,63 +119,109 @@
                   "attributes": {
                     "id": "isxw"
                   },
-                  "_undoexc": [
-                    "status",
-                    "open"
-                  ],
+                  "_undoexc": ["status", "open"],
                   "components": [
                     {
                       "type": "section",
                       "style": "",
-                      "classes": [
-                        "section"
-                      ],
                       "attributes": {
-                        "title": "Seção personalizada!",
+                        "title": "Huehue BR BR",
                         "id": "i6e1"
                       },
                       "components": [
                         {
                           "tagName": "h2",
                           "type": "text",
-                          "classes": [
-                            "section__title"
-                          ],
-                          "_undoexc": [
-                            "status",
-                            "open"
-                          ],
+                          "attributes": {
+                            "id": "ion6"
+                          },
+                          "_undoexc": ["status", "open"],
                           "components": [
                             {
                               "type": "textnode",
-                              "content": "Headline title section",
-                              "_undoexc": [
-                                "status",
-                                "open"
-                              ]
+                              "content": "Lançamento do novo filme",
+                              "_undoexc": ["status", "open"]
                             }
                           ]
                         },
                         {
                           "tagName": "p",
                           "type": "text",
-                          "classes": [
-                            "section__text"
-                          ],
-                          "_undoexc": [
-                            "status",
-                            "open"
-                          ],
+                          "classes": ["section__text"],
+                          "attributes": {
+                            "id": "iihrf"
+                          },
+                          "_undoexc": ["status", "open"],
+                          "components": [
+                            {
+                              "type": "textnode",
+                              "content": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.",
+                              "_undoexc": ["status", "open"]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "section",
+                      "style": "",
+                      "attributes": {
+                        "title": "Seção personalizada!",
+                        "id": "i0xil"
+                      },
+                      "components": [
+                        {
+                          "tagName": "h2",
+                          "type": "text",
+                          "classes": ["section__title"],
+                          "_undoexc": ["status", "open"],
+                          "components": [
+                            {
+                              "type": "textnode",
+                              "content": "Headline title section",
+                              "_undoexc": ["status", "open"]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "image",
+                          "resizable": {
+                            "ratioDefault": 1
+                          },
+                          "attributes": {
+                            "id": "ib29w",
+                            "src": "https://res.cloudinary.com/dlz7aaj3q/image/upload/v1667437511/zappages/assets/1/ny9rcykkd3wowdug62xj.jpg"
+                          },
+                          "_undoexc": ["status", "open"]
+                        },
+                        {
+                          "tagName": "p",
+                          "type": "text",
+                          "attributes": {
+                            "id": "inmw"
+                          },
+                          "_undoexc": ["status", "open"],
                           "components": [
                             {
                               "type": "textnode",
                               "content": "\n              Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n            ",
-                              "_undoexc": [
-                                "status",
-                                "open"
-                              ]
+                              "_undoexc": ["status", "open"]
                             }
                           ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "attributes": {
+                        "id": "i80b"
+                      },
+                      "_undoexc": ["status", "open"],
+                      "components": [
+                        {
+                          "type": "textnode",
+                          "content": "Footer | Por Leonardo Lima Coelho",
+                          "_undoexc": ["status", "open"]
                         }
                       ]
                     }
