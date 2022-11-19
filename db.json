@@ -35,7 +35,9 @@
         ],
         "styles": [
           {
-            "selectors": ["section__title"],
+            "selectors": [
+              "section__title"
+            ],
             "style": {
               "font-family": "Ubuntu, sans-serif",
               "color": "#333333",
@@ -44,7 +46,9 @@
             }
           },
           {
-            "selectors": ["section__text"],
+            "selectors": [
+              "section__text"
+            ],
             "style": {
               "font-family": "Arial, Helvetica, sans-serif",
               "color": "#cfc7c7",
@@ -56,7 +60,9 @@
             }
           },
           {
-            "selectors": ["#i6e1"],
+            "selectors": [
+              "#i6e1"
+            ],
             "style": {
               "width": "100%",
               "padding": "1px 1px 1px 1px",
@@ -73,7 +79,9 @@
             }
           },
           {
-            "selectors": ["#i80b"],
+            "selectors": [
+              "#i80b"
+            ],
             "style": {
               "padding": "10px",
               "background-color": "#3b3a3a",
@@ -84,17 +92,20 @@
             }
           },
           {
-            "selectors": ["#i0xil"],
+            "selectors": [
+              "#i0xil"
+            ],
             "style": {
               "width": "80%",
               "margin": "2rem auto 0"
             }
           },
           {
-            "selectors": ["#ib29w"],
+            "selectors": [
+              "#ib29w"
+            ],
             "style": {
               "color": "black",
-              "margin": "2rem 10% 0 auto",
               "width": "487px",
               "opacity": "1",
               "border": "10px solid black",
@@ -103,7 +114,9 @@
             }
           },
           {
-            "selectors": ["#ion6"],
+            "selectors": [
+              "#ion6"
+            ],
             "style": {
               "font-family": "Arial, Helvetica, sans-serif",
               "font-size": "40px",
@@ -115,7 +128,9 @@
             }
           },
           {
-            "selectors": ["#inmw"],
+            "selectors": [
+              "#inmw"
+            ],
             "style": {
               "font-size": "18px",
               "font-weight": "500",
@@ -124,13 +139,17 @@
             }
           },
           {
-            "selectors": ["#irfjg"],
+            "selectors": [
+              "#irfjg"
+            ],
             "style": {
               "margin": "2rem auto 0"
             }
           },
           {
-            "selectors": ["#iay4o"],
+            "selectors": [
+              "#iay4o"
+            ],
             "style": {
               "width": "100%",
               "color": "#ba0c0c",
@@ -138,13 +157,17 @@
             }
           },
           {
-            "selectors": ["#i2coc"],
+            "selectors": [
+              "#i2coc"
+            ],
             "style": {
               "color": "#0b0101"
             }
           },
           {
-            "selectors": ["#ib29w"],
+            "selectors": [
+              "#ib29w"
+            ],
             "style": {
               "max-width": "100%",
               "width": "100%"
@@ -153,7 +176,9 @@
             "atRuleType": "media"
           },
           {
-            "selectors": ["#ion6"],
+            "selectors": [
+              "#ion6"
+            ],
             "style": {
               "max-width": "100%",
               "margin": "97px 32px 0 32px",
@@ -164,7 +189,9 @@
             "atRuleType": "media"
           },
           {
-            "selectors": ["navbar"],
+            "selectors": [
+              "navbar"
+            ],
             "style": {
               "background-color": "rgb(34, 34, 34)",
               "color": "rgb(221, 221, 221)",
@@ -174,7 +201,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-container"],
+            "selectors": [
+              "navbar-container"
+            ],
             "style": {
               "max-width": "950px",
               "margin-top": "0px",
@@ -186,7 +215,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-items-c"],
+            "selectors": [
+              "navbar-items-c"
+            ],
             "style": {
               "display": "inline-block",
               "float": "right"
@@ -194,7 +225,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-container"],
+            "selectors": [
+              "navbar-container"
+            ],
             "style": {
               "content": "\"\"",
               "clear": "both",
@@ -204,7 +237,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-brand"],
+            "selectors": [
+              "navbar-brand"
+            ],
             "style": {
               "vertical-align": "top",
               "display": "inline-block",
@@ -223,7 +258,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-menu"],
+            "selectors": [
+              "navbar-menu"
+            ],
             "style": {
               "padding-top": "10px",
               "padding-right": "0px",
@@ -239,7 +276,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-menu-link"],
+            "selectors": [
+              "navbar-menu-link"
+            ],
             "style": {
               "margin-top": "0px",
               "margin-right": "0px",
@@ -259,7 +298,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-burger"],
+            "selectors": [
+              "navbar-burger"
+            ],
             "style": {
               "margin-top": "10px",
               "margin-right": "0px",
@@ -277,7 +318,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-burger-line"],
+            "selectors": [
+              "navbar-burger-line"
+            ],
             "style": {
               "padding-top": "1px",
               "padding-right": "1px",
@@ -292,7 +335,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-items-c"],
+            "selectors": [
+              "navbar-items-c"
+            ],
             "style": {
               "display": "none",
               "width": "100%"
@@ -302,7 +347,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-burger"],
+            "selectors": [
+              "navbar-burger"
+            ],
             "style": {
               "display": "block"
             },
@@ -311,7 +358,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-menu"],
+            "selectors": [
+              "navbar-menu"
+            ],
             "style": {
               "width": "100%"
             },
@@ -320,7 +369,9 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["navbar-menu-link"],
+            "selectors": [
+              "navbar-menu-link"
+            ],
             "style": {
               "display": "block"
             },
@@ -329,14 +380,18 @@
             "group": "cmp:navbar"
           },
           {
-            "selectors": ["countdown"],
+            "selectors": [
+              "countdown"
+            ],
             "style": {
               "text-align": "center"
             },
             "group": "cmp:countdown"
           },
           {
-            "selectors": ["countdown-block"],
+            "selectors": [
+              "countdown-block"
+            ],
             "style": {
               "display": "inline-block",
               "margin-top": "0px",
@@ -351,28 +406,40 @@
             "group": "cmp:countdown"
           },
           {
-            "selectors": ["countdown-digit"],
+            "selectors": [
+              "countdown-digit"
+            ],
             "style": {
-              "font-size": "5rem"
+              "font-size": "5rem",
+              "font-family": "sans-serif",
+              "font-weight": "700"
             },
             "group": "cmp:countdown"
           },
           {
-            "selectors": ["countdown-endtext"],
+            "selectors": [
+              "countdown-endtext"
+            ],
             "style": {
-              "font-size": "5rem"
+              "font-size": "5rem",
+              "font-family": "sans-serif",
+              "font-weight": "700"
             },
             "group": "cmp:countdown"
           },
           {
-            "selectors": ["countdown-cont"],
+            "selectors": [
+              "countdown-cont"
+            ],
             "style": {
               "display": "inline-block"
             },
             "group": "cmp:countdown"
           },
           {
-            "selectors": ["#ib7xe"],
+            "selectors": [
+              "#ib7xe"
+            ],
             "style": {
               "color": "#d8d2d2",
               "font-family": "Verdana, Geneva, sans-serif",
@@ -380,25 +447,33 @@
             }
           },
           {
-            "selectors": ["#iv9vl"],
+            "selectors": [
+              "#iv9vl"
+            ],
             "style": {
               "color": "#bababa"
             }
           },
           {
-            "selectors": ["#ihq9q"],
+            "selectors": [
+              "#ihq9q"
+            ],
             "style": {
               "color": "#bababa"
             }
           },
           {
-            "selectors": ["#ijrnu"],
+            "selectors": [
+              "#ijrnu"
+            ],
             "style": {
               "color": "#bababa"
             }
           },
           {
-            "selectors": ["#iqm2"],
+            "selectors": [
+              "#iqm2"
+            ],
             "style": {
               "font-family": "Helvetica, sans-serif",
               "font-size": "16px",
@@ -406,28 +481,36 @@
             }
           },
           {
-            "selectors": ["#iv9vl"],
+            "selectors": [
+              "#iv9vl"
+            ],
             "style": {
               "color": "#bababa"
             },
             "state": "hover"
           },
           {
-            "selectors": ["#ihq9q"],
+            "selectors": [
+              "#ihq9q"
+            ],
             "style": {
               "color": "#bababa"
             },
             "state": "hover"
           },
           {
-            "selectors": ["#ijrnu"],
+            "selectors": [
+              "#ijrnu"
+            ],
             "style": {
               "color": "#bababa"
             },
             "state": "hover"
           },
           {
-            "selectors": ["#iqv7p"],
+            "selectors": [
+              "#iqv7p"
+            ],
             "style": {
               "background-image": "url('https://res.cloudinary.com/dlz7aaj3q/image/upload/v1668448001/zappages/assets/1/w9nkeuwlzegub6aafvlq.png')",
               "width": "50px",
@@ -439,30 +522,11 @@
             }
           },
           {
-            "selectors": ["#ieo4h"],
+            "selectors": [
+              "#ieo4h"
+            ],
             "style": {
               "background-color": "rgba(0,0,0,0.37)"
-            }
-          },
-          {
-            "selectors": ["#ic2im"],
-            "style": {
-              "border": "8px solid #c50f0f",
-              "border-radius": "32px 32px 32px 32px"
-            }
-          },
-          {
-            "selectors": ["#idb2m"],
-            "style": {
-              "margin": "2rem auto 0",
-              "display": "flex",
-              "flex-direction": "column"
-            }
-          },
-          {
-            "selectors": ["#iq6ha"],
-            "style": {
-              "align-self": "flex-start"
             }
           },
           {
@@ -510,31 +574,15 @@
             }
           },
           {
-            "selectors": ["#inwvu"],
+            "selectors": [
+              "countdown-label"
+            ],
             "style": {
-              "padding": "16px 32px",
-              "font-family": "'Ubuntu' ,sans-serif",
-              "border": 0,
-              "border-radius": "8px",
-              "width": "max-content",
-              "align-self": "center"
-            }
-          },
-          {
-            "selectors": ["#idj8t"],
-            "style": {
-              "background-color": "#0d48ac",
-              "padding": "16px 32px",
-              "color": "#dbd0d0",
-              "font-size": "16px",
-              "font-weight": "700",
-              "font-family": "'Ubuntu' ,sans-serif",
-              "border-radius": "8px",
-              "border": 0,
-              "align-self": "center",
-              "margin": "26px 0 0 0",
-              "Alinhamento": "flex-start"
-            }
+              "font-size": "1rem",
+              "font-family": "sans-serif",
+              "font-weight": "700"
+            },
+            "group": "cmp:countdown"
           }
         ],
         "pages": [
@@ -555,7 +603,10 @@
                   "attributes": {
                     "id": "isxw"
                   },
-                  "_undoexc": ["status", "open"],
+                  "_undoexc": [
+                    "status",
+                    "open"
+                  ],
                   "components": [
                     {
                       "type": "section",
@@ -567,14 +618,18 @@
                       "components": [
                         {
                           "type": "navbar",
-                          "classes": ["navbar"],
+                          "classes": [
+                            "navbar"
+                          ],
                           "attributes": {
                             "id": "ieo4h"
                           },
                           "components": [
                             {
                               "type": "navbar-container",
-                              "classes": ["navbar-container"],
+                              "classes": [
+                                "navbar-container"
+                              ],
                               "attributes": {
                                 "data-gjs": "navbar",
                                 "id": "iqm2"
@@ -582,56 +637,78 @@
                               "components": [
                                 {
                                   "type": "link",
-                                  "classes": ["navbar-brand"],
+                                  "classes": [
+                                    "navbar-brand"
+                                  ],
                                   "attributes": {
                                     "href": "https://github.com/artf/grapesjs-navbar",
                                     "target": "_blank",
                                     "title": "Navbar grapesjs",
                                     "id": "iqv7p"
                                   },
-                                  "_undoexc": ["status", "open"]
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ]
                                 },
                                 {
                                   "type": "navbar-burger-menu",
-                                  "classes": ["navbar-burger"],
+                                  "classes": [
+                                    "navbar-burger"
+                                  ],
                                   "attributes": {
                                     "id": "icha"
                                   },
                                   "components": [
                                     {
                                       "type": "navbar-burger-menu-line",
-                                      "classes": ["navbar-burger-line"],
+                                      "classes": [
+                                        "navbar-burger-line"
+                                      ],
                                       "attributes": {}
                                     },
                                     {
                                       "type": "navbar-burger-menu-line",
-                                      "classes": ["navbar-burger-line"],
+                                      "classes": [
+                                        "navbar-burger-line"
+                                      ],
                                       "attributes": {}
                                     },
                                     {
                                       "type": "navbar-burger-menu-line",
-                                      "classes": ["navbar-burger-line"],
+                                      "classes": [
+                                        "navbar-burger-line"
+                                      ],
                                       "attributes": {}
                                     }
                                   ]
                                 },
                                 {
-                                  "classes": ["navbar-items-c"],
+                                  "classes": [
+                                    "navbar-items-c"
+                                  ],
                                   "attributes": {
                                     "data-gjs": "navbar-items"
                                   },
-                                  "_undoexc": ["status", "open"],
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ],
                                   "components": [
                                     {
                                       "type": "navbar-nav-menu",
-                                      "classes": ["navbar-menu"],
+                                      "classes": [
+                                        "navbar-menu"
+                                      ],
                                       "attributes": {
                                         "id": "iuk5"
                                       },
                                       "components": [
                                         {
                                           "type": "navbar-nav-menu-link",
-                                          "classes": ["navbar-menu-link"],
+                                          "classes": [
+                                            "navbar-menu-link"
+                                          ],
                                           "attributes": {
                                             "href": "/",
                                             "title": "Início",
@@ -641,13 +718,18 @@
                                             {
                                               "type": "textnode",
                                               "content": "Início",
-                                              "_undoexc": ["status", "open"]
+                                              "_undoexc": [
+                                                "status",
+                                                "open"
+                                              ]
                                             }
                                           ]
                                         },
                                         {
                                           "type": "navbar-nav-menu-link",
-                                          "classes": ["navbar-menu-link"],
+                                          "classes": [
+                                            "navbar-menu-link"
+                                          ],
                                           "attributes": {
                                             "href": "https://www.npmjs.com/package/grapesjs",
                                             "target": "_blank",
@@ -658,13 +740,18 @@
                                             {
                                               "type": "textnode",
                                               "content": "Sobre nós",
-                                              "_undoexc": ["status", "open"]
+                                              "_undoexc": [
+                                                "status",
+                                                "open"
+                                              ]
                                             }
                                           ]
                                         },
                                         {
                                           "type": "navbar-nav-menu-link",
-                                          "classes": ["navbar-menu-link"],
+                                          "classes": [
+                                            "navbar-menu-link"
+                                          ],
                                           "attributes": {
                                             "href": "https://leonardolima99.github.io/",
                                             "title": "Algum link",
@@ -674,7 +761,10 @@
                                             {
                                               "type": "textnode",
                                               "content": "Contato",
-                                              "_undoexc": ["status", "open"]
+                                              "_undoexc": [
+                                                "status",
+                                                "open"
+                                              ]
                                             }
                                           ]
                                         }
@@ -692,148 +782,232 @@
                           "attributes": {
                             "id": "ion6"
                           },
-                          "_undoexc": ["status", "open"],
+                          "_undoexc": [
+                            "status",
+                            "open"
+                          ],
                           "components": [
                             {
                               "type": "textnode",
                               "content": "Prazo para entregar o projeto",
-                              "_undoexc": ["status", "open"]
+                              "_undoexc": [
+                                "status",
+                                "open"
+                              ]
                             }
                           ]
                         },
                         {
                           "type": "countdown",
-                          "classes": ["countdown"],
+                          "classes": [
+                            "countdown"
+                          ],
                           "attributes": {
                             "id": "ib7xe"
                           },
                           "startfrom": "2022-11-23",
-                          "endText": "Encerrado",
                           "components": [
                             {
                               "tagName": "span",
-                              "classes": ["countdown-cont"],
+                              "classes": [
+                                "countdown-cont"
+                              ],
                               "attributes": {
                                 "data-js": "countdown",
                                 "id": "ic2im"
                               },
-                              "_undoexc": ["status", "open"],
+                              "_undoexc": [
+                                "status",
+                                "open"
+                              ],
                               "components": [
                                 {
-                                  "classes": ["countdown-block"],
-                                  "_undoexc": ["status", "open"],
+                                  "classes": [
+                                    "countdown-block"
+                                  ],
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ],
                                   "components": [
                                     {
-                                      "classes": ["countdown-digit"],
+                                      "classes": [
+                                        "countdown-digit"
+                                      ],
                                       "attributes": {
                                         "data-js": "countdown-day",
                                         "id": "i6iqj"
                                       },
-                                      "_undoexc": ["status", "open"]
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ]
                                     },
                                     {
                                       "type": "text",
-                                      "classes": ["countdown-label"],
+                                      "classes": [
+                                        "countdown-label"
+                                      ],
                                       "attributes": {
                                         "id": "ikrnm"
                                       },
-                                      "_undoexc": ["status", "open"],
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ],
                                       "components": [
                                         {
                                           "type": "textnode",
                                           "content": "Dias",
-                                          "_undoexc": ["status", "open"]
+                                          "_undoexc": [
+                                            "status",
+                                            "open"
+                                          ]
                                         }
                                       ]
                                     }
                                   ]
                                 },
                                 {
-                                  "classes": ["countdown-block"],
+                                  "classes": [
+                                    "countdown-block"
+                                  ],
                                   "attributes": {
                                     "id": "i2trg"
                                   },
-                                  "_undoexc": ["status", "open"],
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ],
                                   "components": [
                                     {
-                                      "classes": ["countdown-digit"],
+                                      "classes": [
+                                        "countdown-digit"
+                                      ],
                                       "attributes": {
                                         "data-js": "countdown-hour"
                                       },
-                                      "_undoexc": ["status", "open"]
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ]
                                     },
                                     {
                                       "type": "text",
-                                      "classes": ["countdown-label"],
+                                      "classes": [
+                                        "countdown-label"
+                                      ],
                                       "attributes": {
                                         "id": "i5qc1"
                                       },
-                                      "_undoexc": ["status", "open"],
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ],
                                       "components": [
                                         {
                                           "type": "textnode",
                                           "content": "Horas",
-                                          "_undoexc": ["status", "open"]
+                                          "_undoexc": [
+                                            "status",
+                                            "open"
+                                          ]
                                         }
                                       ]
                                     }
                                   ]
                                 },
                                 {
-                                  "classes": ["countdown-block"],
-                                  "_undoexc": ["status", "open"],
+                                  "classes": [
+                                    "countdown-block"
+                                  ],
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ],
                                   "components": [
                                     {
-                                      "classes": ["countdown-digit"],
+                                      "classes": [
+                                        "countdown-digit"
+                                      ],
                                       "attributes": {
                                         "data-js": "countdown-minute"
                                       },
-                                      "_undoexc": ["status", "open"]
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ]
                                     },
                                     {
                                       "type": "text",
-                                      "classes": ["countdown-label"],
+                                      "classes": [
+                                        "countdown-label"
+                                      ],
                                       "attributes": {
                                         "id": "iwi5y"
                                       },
-                                      "_undoexc": ["status", "open"],
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ],
                                       "components": [
                                         {
                                           "type": "textnode",
                                           "content": "Minutos",
-                                          "_undoexc": ["status", "open"]
+                                          "_undoexc": [
+                                            "status",
+                                            "open"
+                                          ]
                                         }
                                       ]
                                     }
                                   ]
                                 },
                                 {
-                                  "classes": ["countdown-block"],
+                                  "classes": [
+                                    "countdown-block"
+                                  ],
                                   "attributes": {
                                     "id": "inr68"
                                   },
-                                  "_undoexc": ["status", "open"],
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ],
                                   "components": [
                                     {
-                                      "classes": ["countdown-digit"],
+                                      "classes": [
+                                        "countdown-digit"
+                                      ],
                                       "attributes": {
                                         "data-js": "countdown-second",
                                         "id": "i2sej"
                                       },
-                                      "_undoexc": ["status", "open"]
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ]
                                     },
                                     {
                                       "type": "text",
-                                      "classes": ["countdown-label"],
+                                      "classes": [
+                                        "countdown-label"
+                                      ],
                                       "attributes": {
                                         "id": "ip6jw"
                                       },
-                                      "_undoexc": ["status", "open"],
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ],
                                       "components": [
                                         {
                                           "type": "textnode",
                                           "content": "Segundos",
-                                          "_undoexc": ["status", "open"]
+                                          "_undoexc": [
+                                            "status",
+                                            "open"
+                                          ]
                                         }
                                       ]
                                     }
@@ -843,35 +1017,15 @@
                             },
                             {
                               "tagName": "span",
-                              "classes": ["countdown-endtext"],
+                              "classes": [
+                                "countdown-endtext"
+                              ],
                               "attributes": {
                                 "data-js": "countdown-endtext"
                               },
-                              "_undoexc": ["status", "open"]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "my-button",
-                          "style": "",
-                          "attributes": {
-                            "title": "Clique em mim!",
-                            "id": "idj8t"
-                          },
-                          "components": [
-                            {
-                              "tagName": "span",
-                              "type": "text",
-                              "attributes": {
-                                "id": "i25uc"
-                              },
-                              "_undoexc": ["status", "open"],
-                              "components": [
-                                {
-                                  "type": "textnode",
-                                  "content": "Compre mais",
-                                  "_undoexc": ["status", "open"]
-                                }
+                              "_undoexc": [
+                                "status",
+                                "open"
                               ]
                             }
                           ]
@@ -887,62 +1041,25 @@
                       },
                       "components": [
                         {
-                          "type": "section",
-                          "style": "",
+                          "tagName": "h2",
+                          "type": "text",
+                          "classes": [
+                            "section__title"
+                          ],
                           "attributes": {
-                            "title": "Seção personalizada!",
-                            "id": "idb2m"
+                            "id": "i22at"
                           },
+                          "_undoexc": [
+                            "status",
+                            "open"
+                          ],
                           "components": [
                             {
-                              "tagName": "h2",
-                              "type": "text",
-                              "classes": ["section__title"],
-                              "attributes": {
-                                "id": "iq6ha"
-                              },
-                              "_undoexc": ["status", "open"],
-                              "components": [
-                                {
-                                  "type": "textnode",
-                                  "content": "Headline centralizada com flexbox!",
-                                  "_undoexc": ["status", "open"]
-                                }
-                              ]
-                            },
-                            {
-                              "type": "my-button",
-                              "style": "",
-                              "attributes": {
-                                "title": "Clique em mim!",
-                                "id": "inwvu"
-                              },
-                              "components": [
-                                {
-                                  "tagName": "span",
-                                  "type": "text",
-                                  "_undoexc": ["status", "open"],
-                                  "components": [
-                                    {
-                                      "type": "textnode",
-                                      "content": "Compre mais",
-                                      "_undoexc": ["status", "open"]
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "tagName": "p",
-                              "type": "text",
-                              "classes": ["section__text"],
-                              "_undoexc": ["status", "open"],
-                              "components": [
-                                {
-                                  "type": "textnode",
-                                  "content": "\n              Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n            ",
-                                  "_undoexc": ["status", "open"]
-                                }
+                              "type": "textnode",
+                              "content": "Headline title section",
+                              "_undoexc": [
+                                "status",
+                                "open"
                               ]
                             }
                           ]
@@ -956,182 +1073,10 @@
                             "id": "ib29w",
                             "src": "https://res.cloudinary.com/dlz7aaj3q/image/upload/v1667437511/zappages/assets/1/ny9rcykkd3wowdug62xj.jpg"
                           },
-                          "_undoexc": ["status", "open"]
-                        },
-                        {
-                          "type": "form",
-                          "attributes": {
-                            "method": "post",
-                            "id": "iwrkg"
-                          },
-                          "components": [
-                            {
-                              "attributes": {
-                                "id": "i6uci"
-                              },
-                              "_undoexc": ["status", "open"],
-                              "components": [
-                                {
-                                  "type": "label",
-                                  "attributes": {
-                                    "id": "iox6s"
-                                  },
-                                  "components": [
-                                    {
-                                      "type": "textnode",
-                                      "content": "Name",
-                                      "_undoexc": ["status", "open"]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "type": "input",
-                                  "void": true,
-                                  "attributes": {
-                                    "type": "text",
-                                    "placeholder": "Seu nome completo",
-                                    "required": false,
-                                    "name": "name",
-                                    "id": "iwify"
-                                  }
-                                }
-                              ]
-                            },
-                            {
-                              "_undoexc": ["status", "open"],
-                              "components": [
-                                {
-                                  "type": "label",
-                                  "components": [
-                                    {
-                                      "type": "textnode",
-                                      "content": "Email",
-                                      "_undoexc": ["status", "open"]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "type": "input",
-                                  "void": true,
-                                  "attributes": {
-                                    "type": "email"
-                                  }
-                                }
-                              ]
-                            },
-                            {
-                              "_undoexc": ["status", "open"],
-                              "components": [
-                                {
-                                  "type": "label",
-                                  "components": [
-                                    {
-                                      "type": "textnode",
-                                      "content": "Gender",
-                                      "_undoexc": ["status", "open"]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "type": "checkbox",
-                                  "void": true,
-                                  "attributes": {
-                                    "type": "checkbox",
-                                    "value": "M"
-                                  }
-                                },
-                                {
-                                  "type": "label",
-                                  "components": [
-                                    {
-                                      "type": "textnode",
-                                      "content": "M",
-                                      "_undoexc": ["status", "open"]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "type": "checkbox",
-                                  "void": true,
-                                  "attributes": {
-                                    "type": "checkbox",
-                                    "value": "F"
-                                  }
-                                },
-                                {
-                                  "type": "label",
-                                  "components": [
-                                    {
-                                      "type": "textnode",
-                                      "content": "F",
-                                      "_undoexc": ["status", "open"]
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "_undoexc": ["status", "open"],
-                              "components": [
-                                {
-                                  "type": "label",
-                                  "components": [
-                                    {
-                                      "type": "textnode",
-                                      "content": "Message",
-                                      "_undoexc": ["status", "open"]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "type": "textarea"
-                                }
-                              ]
-                            },
-                            {
-                              "attributes": {
-                                "id": "idhk1"
-                              },
-                              "_undoexc": ["status", "open"],
-                              "components": [
-                                {
-                                  "type": "button",
-                                  "attributes": {
-                                    "type": "reset",
-                                    "id": "i3aw1"
-                                  },
-                                  "components": [
-                                    {
-                                      "type": "textnode",
-                                      "content": "Send",
-                                      "_undoexc": ["status", "open"]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
+                          "_undoexc": [
+                            "status",
+                            "open"
                           ]
-                        },
-                        {
-                          "type": "button",
-                          "attributes": {
-                            "type": "reset",
-                            "id": "i77qg"
-                          },
-                          "components": [
-                            {
-                              "type": "textnode",
-                              "content": "Send",
-                              "_undoexc": ["status", "open"]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "checkbox",
-                          "void": true,
-                          "attributes": {
-                            "type": "checkbox"
-                          }
                         },
                         {
                           "tagName": "p",
@@ -1139,12 +1084,18 @@
                           "attributes": {
                             "id": "inmw"
                           },
-                          "_undoexc": ["status", "open"],
+                          "_undoexc": [
+                            "status",
+                            "open"
+                          ],
                           "components": [
                             {
                               "type": "textnode",
                               "content": "\n              Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n            ",
-                              "_undoexc": ["status", "open"]
+                              "_undoexc": [
+                                "status",
+                                "open"
+                              ]
                             }
                           ]
                         },
@@ -1159,32 +1110,48 @@
                             {
                               "tagName": "h2",
                               "type": "text",
-                              "classes": ["section__title"],
+                              "classes": [
+                                "section__title"
+                              ],
                               "attributes": {
-                                "id": "i22at"
+                                "id": "iemtg"
                               },
-                              "_undoexc": ["status", "open"],
+                              "_undoexc": [
+                                "status",
+                                "open"
+                              ],
                               "components": [
                                 {
                                   "type": "textnode",
                                   "content": "Headline title section",
-                                  "_undoexc": ["status", "open"]
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ]
                                 }
                               ]
                             },
                             {
                               "tagName": "p",
                               "type": "text",
-                              "classes": ["section__text"],
+                              "classes": [
+                                "section__text"
+                              ],
                               "attributes": {
                                 "id": "iay4o"
                               },
-                              "_undoexc": ["status", "open"],
+                              "_undoexc": [
+                                "status",
+                                "open"
+                              ],
                               "components": [
                                 {
                                   "type": "textnode",
                                   "content": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim ",
-                                  "_undoexc": ["status", "open"]
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ]
                                 },
                                 {
                                   "tagName": "span",
@@ -1192,19 +1159,28 @@
                                   "attributes": {
                                     "id": "i2coc"
                                   },
-                                  "_undoexc": ["status", "open"],
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ],
                                   "components": [
                                     {
                                       "type": "textnode",
                                       "content": "veniam",
-                                      "_undoexc": ["status", "open"]
+                                      "_undoexc": [
+                                        "status",
+                                        "open"
+                                      ]
                                     }
                                   ]
                                 },
                                 {
                                   "type": "textnode",
                                   "content": ", quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n            ",
-                                  "_undoexc": ["status", "open"]
+                                  "_undoexc": [
+                                    "status",
+                                    "open"
+                                  ]
                                 }
                               ]
                             }
@@ -1217,12 +1193,18 @@
                       "attributes": {
                         "id": "i80b"
                       },
-                      "_undoexc": ["status", "open"],
+                      "_undoexc": [
+                        "status",
+                        "open"
+                      ],
                       "components": [
                         {
                           "type": "textnode",
                           "content": "Footer | Por Leonardo Lima Coelho",
-                          "_undoexc": ["status", "open"]
+                          "_undoexc": [
+                            "status",
+                            "open"
+                          ]
                         }
                       ]
                     }
