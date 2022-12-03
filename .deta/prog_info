@@ -1,0 +1,1 @@
+{"id":"5aedc59d-badf-49be-a36a-9e09a3456b0b","space":39143,"runtime":"nodejs14.x","name":"api-zappages","path":"77wsxs","project":"e01byl60","account":"144798365827","region":"sa-east-1","deps":["json-server@^0.17.0"],"envs":null,"public":false,"log_level":"off","cron":""}

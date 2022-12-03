@@ -10,3 +10,5 @@ app.use(middlewares);
 app.use(router);
 
 app.listen(port, () => console.log(`Json Server is running in port ${port}`));
+
+module.exports = app;
