@@ -2,7 +2,9 @@
   "projects": [
     {
       "id": "1",
-      "data": {
+      "id_user": "1",
+      "slug": "teste",
+      "template": {
         "assets": [
           {
             "type": "image",
